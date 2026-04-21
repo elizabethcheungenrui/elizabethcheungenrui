@@ -1,5 +1,7 @@
 # Hi, I'm Lizzie
 
+UCL Mathematical Computation Student. 
+
 Full-stack developer building modern web platforms and editorial systems.
 
 Currently working on a custom CMS and publication platform for a student magazine.
